@@ -39,5 +39,5 @@ def get_titles_and_urls(url, before):
         print(f"Request failed: {e}")
 
 # Example usage
-url = 'https://timesofoman.com/'
+url = 'https://alroya.om/'
 get_titles_and_urls(url, False)
